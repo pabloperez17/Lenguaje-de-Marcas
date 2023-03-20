@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tienda>
+    <producto>
+        <productoID>001</productoID>
+        <nombre>El guantelete infinito</nombre>
+        <marca>Marvel</marca>
+        <precio>18,95 €</precio>
+        <pegi>+7</pegi>
+        <categoria>comic</categoria>
+        <categoria>manga</categoria>
+        <descuento>3</descuento>
+    </producto>
+    <producto>
+        <productoID>002</productoID>
+        <nombre>El asombroso Spiderman 1: Vuelta a casa</nombre>
+        <marca>Marvel</marca>
+        <precio>15 €</precio>
+        <pegi>+7</pegi>
+        <categoria>comic</categoria>
+        <categoria>manga</categoria>
+        <descuento>2</descuento>
+    </producto>
+    <producto>
+        <productoID>003</productoID>
+        <nombre>Batman, año uno</nombre>
+        <marca>DC</marca>
+        <precio>9,95 €</precio>
+        <pegi>+7</pegi>
+        <categoria>comic</categoria>
+        <categoria>manga</categoria>
+        <descuento>1</descuento>
+    </producto>
+</tienda>
