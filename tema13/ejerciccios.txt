@@ -1,0 +1,9 @@
+MOSTRAR:
+1. El titulo y pegi de los videojuegos que tengan pegi menor que 18
+//videojuego[pegi<18]//titulo|//videojuego[pegi<18]//pegi
+2. Los videojuegos cuyo genero es horror o supervivencia
+//videojuego[genero="Horror" or "Supervivencia"]
+3. El titulo y la consola de los videojuegos que cuestan 60€ y son de supervivencia
+//videojuego[precio="60€" and genero="Supervivencia"]//titulo|//videojuego[precio="60€" and genero="Supervivencia"]//@consola
+4. Contar cuantos videojuegos hay de ps5
+count(//videojuego[@consola="ps5"])
